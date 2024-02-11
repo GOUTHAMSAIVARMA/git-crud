@@ -1,3 +1,4 @@
+pip install streamlit spacy
 import streamlit as st
 import spacy
 
